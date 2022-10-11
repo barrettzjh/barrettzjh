@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @barrettzjh
 - 👀 I’m interested in golang,
-- 🌱 I’m currently learning kubebuilder and OAM
+- 🌱 I’m currently learning open telemetry
 - 📫 Wechat: CloudNativeQingFeng
